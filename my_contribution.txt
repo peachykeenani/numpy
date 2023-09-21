@@ -1,0 +1,11 @@
+Documentation of modifications, adds, and deletions
+
+Includes useful commands not introduced in TripleTen platform
+
+# to quit interactive Python interpreter
+ctrl + C
+# for more options <https://superuser.com/questions/1523897/i-cant-exit-out-of-python-on-cmd-using-ctrl-c/1523985#1523985>
+
+# to edit text files in Powershell
+notepad file_name.txt
+# for more options <https://blog.finxter.com/how-to-edit-a-text-file-in-windows-powershell/#:~:text=The%20easiest%20way%20to%20edit,with%20the%20visual%20editor%20Notepad.>
